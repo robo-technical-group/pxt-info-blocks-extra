@@ -2,7 +2,7 @@
 
 Want to see a tutorial on how to use this extension? Give this one a try!
 
-<https://arcade.makecode.org/#tutorial:https://github.com/robo-technical-group/pxt-info-blocks-extra>
+<https://arcade.makecode.com/#tutorial:https://github.com/robo-technical-group/pxt-info-blocks-extra/tutorial>
 
 ## See it in action!
 
