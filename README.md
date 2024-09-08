@@ -1,3 +1,10 @@
+## Tutorial
+
+Want to see a tutorial on how to use this extension? Give this one a try!
+
+<https://arcade.makecode.org/#tutorial:https://github.com/robo-technical-group/pxt-info-blocks-extra>
+
+## See it in action!
 
 > Open this page at [https://robo-technical-group.github.io/pxt-info-blocks-extra/](https://robo-technical-group.github.io/pxt-info-blocks-extra/)
 
