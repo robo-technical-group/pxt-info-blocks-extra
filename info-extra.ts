@@ -6,7 +6,7 @@
 namespace info {
     //% block="set info background color to $color"
     //% blockId=info_set_bg_color
-    //% group='Customize'
+    //% group='Customize' weight=100
     //% color.shadow="colorindexpicker"
     //% hidden
     export function blockSetBg(color: number): void {
@@ -15,7 +15,7 @@ namespace info {
 
     //% block="set info border color to $color"
     //% blockId=info_set_border_color
-    //% group='Customize'
+    //% group='Customize' weight=90
     //% color.shadow="colorindexpicker"
     //% hidden
     export function blockSetBorder(color: number): void {
@@ -24,7 +24,7 @@ namespace info {
 
     //% block="set info font color to $color"
     //% blockId=info_set_font_color
-    //% group='Customize'
+    //% group='Customize' weight=80
     //% color.shadow="colorindexpicker"
     //% hidden
     export function blockSetFont(color: number): void {
@@ -33,7 +33,7 @@ namespace info {
 
     //% block="set life icon to $img"
     //% blockId=info_set_life_icon
-    //% group='Customize'
+    //% group='Customize' weight=70
     //% img.shadow="screen_image_picker"
     //% hidden
     export function blockSetLifeIcon(img: Image): void {
