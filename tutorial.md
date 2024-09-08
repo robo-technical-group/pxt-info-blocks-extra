@@ -159,5 +159,5 @@ info.blockSetBg(8)
 ```
 
 ```package
-info_extra=github:robo-technical-group/pxt-info-blocks-extra
+pxt-info-blocks-extra=github:robo-technical-group/pxt-info-blocks-extra
 ```
