@@ -136,7 +136,8 @@ info.blockSetLifeIcon(img`
 
 Congratulations! You've tried out all of the new blocks!
 
-Try these new blocks in your own projects.
+Try these new blocks in your own projects. The blocks will appear in a new category
+at the bottom of the ``||info:Info||`` drawer, called **Customize**.
 
 Have fun!
 
